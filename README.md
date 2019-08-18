@@ -6,9 +6,9 @@
 
 ## 成品展示
 
-[網站網址(host by heroku)](https://pythondiary.herokuapp.com/)
+[網站網址(host by heroku)](https://pythondiary12350.herokuapp.com/)
 
-![](https://github.com/grand-coder/pythondiary/raw/master/index.png)
+![](https://github.com/Frank12350/repl/raw/master/index.PNG)
 
 ## 使用技術
 
