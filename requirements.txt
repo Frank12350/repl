@@ -2,3 +2,4 @@ beautifulsoup4
 googletrans
 jieba
 flask
+gunicorn
