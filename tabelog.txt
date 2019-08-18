@@ -1,0 +1,20 @@
+4.79	日本橋蛎殻町 すぎた	Sugita
+4.76	松川	Matsukawa
+4.75	銀座 しのはら	Shinohara
+4.73	エクアトゥール	Restaurant l'equateur
+4.70	SUGALABO	SUGALABO
+4.69	鮨 さいとう	Saito
+4.68	京味	Kyoaji
+4.67	フルタ	Furuta
+4.67	ペレグリーノ	PELLEGRINO
+4.66	CHIUnE	CHIUnE
+4.65	カンテサンス	Quintessence
+4.63	鮨 なんば 日比谷	Sushinamba
+4.62	ete	été
+4.61	レフェルヴェソンス	L'Effervescence
+4.61	長谷川 稔	Hasegawaminoru
+4.60	鮨 はしぐち	Hashiguchi
+4.59	初音鮨	Hatsunezushi
+4.59	東麻布 天本	Amamoto
+4.58	ボニュ	Bon.nu
+4.58	たきや	Takiya
